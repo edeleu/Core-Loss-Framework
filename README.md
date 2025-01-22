@@ -15,6 +15,5 @@
   volume={},
   number={},
   pages={370-377},
-  keywords={Magnetic flux;Adaptation models;Magnetic cores;Core loss;Neural networks;Magnetic domains;Machine learning;power magnetics;core loss;soft magnetic materials;machine learning;neural networks;transformer model},
   doi={10.1109/APEC48139.2024.10509142}}
 ```

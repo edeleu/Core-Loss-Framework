@@ -1,6 +1,6 @@
 # coreloss_framework
 
-[Published Paper DOI](https://doi.org/10.1109/URTC54388.2021.9701649](https://doi.org/10.1109/APEC48139.2024.10509142)
+[Published Paper DOI](https://doi.org/10.1109/URTC54388.2021.9701649]([https://doi.org/10.1109/APEC48139.2024.10509142])
 
 # Citation
 

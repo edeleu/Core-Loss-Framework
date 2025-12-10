@@ -1,4 +1,5 @@
 # Multi-Material Core Loss Prediction Framework
+The main entry-point to the machine-learning frameworks for multi-material core-loss modeling are within the /Unified/ directory. The other directories contain experimental, unfinished, and work-in-progress codes for core-loss modeling with various machine-learning attempts.
 
 [Published Paper DOI](https://doi.org/10.1109/APEC48139.2024.10509142)
 

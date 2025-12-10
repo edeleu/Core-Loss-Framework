@@ -1,0 +1,16 @@
+Overview of files:
+
+UnifiedSingle was the original implementation of the unified approach for a single material.
+TrainUnified is the code to train/evaluate the unified model with the currently optimal model setup. 
+This file has a majority of the comments and should be used as reference. The LSTM is based off off
+this code as a template. 
+
+
+TrainLSTM is the code to train the LSTM unified model
+OptimizeUnified / LSTM optimize the LSTM or transformer approaches using Optuna, optimizing all model setup
+countParams counts the number of parameters for a given NN structure
+LRExperiments includes some experimentation with linear warmup and COS annealing LR with restarts
+
+Some example slurm scripts are also included.
+
+Note, all of the file paths and names likely need to be modified for using these scripts.

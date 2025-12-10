@@ -1,0 +1,8 @@
+Final Transformer Parameters: 
+[I 2023-07-22 23:56:49,517] Trial 7 finished with value: 3.307494878768922 and parameters: {'LR': 0.001374771109331439, 'MIN_LR': 0.0004017121475967859, 'batch': 384, 'dim_FFL': 33, 'dim_val': 24, 'encoder_l': 32, 'encoder_layers': 3, 'epoch': 638, 'head_layers': 2, 'head_units_0': 15, 'head_units_1': 18, 'heads': 8, 'out_f': 14, 'proj_layers': 4, 'proj_units_0': 34, 'proj_units_1': 11, 'proj_units_2': 36, 'proj_units_3': 22}. Best is trial 7 with value: 3.307494878768922.
+Epoch 623 - 
+Test Loss: 0.01127 Relative Error: 1.12593341 RMS Error: 1.47293425 MAX Error: 12.14551163 95th percent:  2.931082916259766 99th percent:  4.299230651855454
+
+Final LSTM Parameters:
+[I 2023-07-22 16:02:30,992] Trial 36 finished with value: 3.696003770828248 and parameters: {'LR': 0.002244620502646518, 'LSTMs': 2, 'MIN_LR': 0.0001535288467527798, 'batch': 256, 'dim_val': 38, 'epoch': 621, 'head_layers': 1, 'head_units_0': 21, 'out_f': 11, 'proj_layers': 4, 'proj_units_0': 33, 'proj_units_1': 23, 'proj_units_2': 14, 'proj_units_3': 24}. Best is trial 36 with value: 3.696003770828248.
+618  Train 0.01791 Valid 0.01843 Test Loss: 0.00860 Relative Error: 1.18081081 RMS Error: 1.57477260 MAX Error: 18.61500359 95th percent:  3.056751632690431 99th percent:  4.742446994781469
